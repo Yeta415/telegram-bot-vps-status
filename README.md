@@ -5,9 +5,7 @@ A simple Telegram bot that checks the status of a server or application in real-
 ## 🚀 Features
 
 - Check if a server is online/offline
-- Ping specific endpoints
 - Show bot uptime
-- Supports commands like `/status`, `/ping`, `/uptime`
 - Uses `.env` for secure token and config management
 
 ## 📦 Built With
